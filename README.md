@@ -35,4 +35,4 @@ Sistema para o controle de terefas que permita ao usuário organizar e acompanha
 
 ![image](https://github.com/user-attachments/assets/b9b38755-eb28-4b36-8ed5-75db67a693c2)
 
-![image](https://github.com/user-attachments/assets/492be23f-b90b-4275-ab7e-fa61c03a3a0e)
+![image](https://github.com/user-attachments/assets/efaa31b1-e45b-4f50-aa73-fb5a9877cc22)
