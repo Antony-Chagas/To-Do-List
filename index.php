@@ -64,7 +64,7 @@ require 'conexao.php';
                                                 <a href="tarefa_view.php?ID=<?= $tarefa['ID'] ?>" class="btn btn-info btn-sm">Visualizar</a>
                                                 <a href="tarefa_edit.php?ID=<?= $tarefa['ID'] ?>" class="btn btn-warning btn-sm">Editar</a>
                                                 <form action="acoes.php" method="POST" class="d-inline">
-                                                    <button onclick="return confirm('Tem certeza que deseja exclir essa tarefa?')" type="submit" name="delete_tarefa" value="<?= $tarefa['ID'] ?>" class="btn btn-danger btn-sm">
+                                                    <button onclick="return confirm('Tem certeza que deseja excluir essa tarefa?')" type="submit" name="delete_tarefa" value="<?= $tarefa['ID'] ?>" class="btn btn-danger btn-sm">
                                                         Excluir
                                                     </button>
                                                 </form>
