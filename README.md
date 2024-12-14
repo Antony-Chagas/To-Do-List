@@ -1,7 +1,5 @@
 # Sistema litas de tarefas  ✅
 
-## Indice
-
 ## Descrição do Projeto 📰
 Sistema para o controle de terefas que permita ao usuário organizar e acompanhar tarefas.
 
@@ -26,7 +24,7 @@ Sistema para o controle de terefas que permita ao usuário organizar e acompanha
 'DB' = 'tarefas'
 ```
 ### Tabela
-![image](https://github.com/user-attachments/assets/081ec46f-b366-40d1-a637-575d19ee70e1)
+![image](https://github.com/user-attachments/assets/439facdb-3827-4659-9a9f-034e0aa93727)
 
 ## Paginas do prjeto
 ![image](https://github.com/user-attachments/assets/54060afa-6908-4c98-8b49-947d34fec09f)
