@@ -51,8 +51,8 @@ require 'conexao.php';
                                         <label>Status</label> <br>
                                         <select id="inlineFormCustomSelectPref" class="form-control" name="status">
                                             <option selected>Pendente</option>
-                                            <option >Em andamento</option>
-                                            <option >Concluído</option>
+                                            <option>Em andamento</option>
+                                            <option>Concluído</option>
                                         </select>
                                     </div>
                                     <div class="mb-3">
