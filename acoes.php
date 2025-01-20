@@ -48,12 +48,12 @@ if (isset($_POST['update_tarefa'])) {
 
 if (isset($_POST['delete_tarefa'])) {
     $tarefa_id = mysqli_real_escape_string($conexao, $_POST['delete_tarefa']);
-    
+
     $sql = "DELETE FROM lista_de_tarefas WHERE id = '$tarefa_id'";
 
     mysqli_query($conexao, $sql);
 
-    if(mysqli_affected_rows($conexao) > 0){
+    if (mysqli_affected_rows($conexao) > 0) {
         $_SESSION['mensagem'] = 'Tarefa excluida com sucesso';
         header('Location: index.php');
         exit;

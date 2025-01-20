@@ -21,7 +21,7 @@ require 'conexao.php';
                 <div class="card">
                     <div class="card-header">
                         <h4> Lista de tarefas
-                            <a href="tarefa-create.php" class="btn btn-primary float-end"> Adicionar tarefa</a>
+                            <a href="tarefa_create.php" class="btn btn-primary float-end"> Adicionar tarefa</a>
                         </h4>
                     </div>
                     <div class="card-body">

@@ -30,12 +30,12 @@
                             <div class="mb-3">
                                 <label>Data Limite</label>
                                 <input type="date" name="data_limite" class="form-control" required>
-                            </div> 
+                            </div>
                             <div class="mb-3">
                                 <button type="submit" name="create_tarefa" class="btn btn-primary">Salvar</button>
                                 <a href="index.php" class="btn btn-danger ">Cancelar</a>
-                            </div> 
-                        </form>   
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>

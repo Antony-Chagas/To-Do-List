@@ -5,8 +5,8 @@ Sistema para o controle de terefas que permita ao usuário organizar e acompanha
 
 ## Tecnologias utilizadas 🖥
 
-**PHP** estruturado. <br>
-**MySQ**L para banco de dados. <br>
+**PHP 8.2** estruturado. <br>
+**MySQ 5.2** para banco de dados. <br>
 **Bootstrap 5** para estilização. <br>
 
 ## Funcionalidades do projeto 🛠️
@@ -24,7 +24,7 @@ Sistema para o controle de terefas que permita ao usuário organizar e acompanha
 'DB' = 'tarefas'
 ```
 ### Tabela
-![image](https://github.com/user-attachments/assets/439facdb-3827-4659-9a9f-034e0aa93727)
+![image](https://github.com/user-attachments/assets/38e22940-9391-4e6f-bb48-73c3364698da)
 
 ## Paginas do prjeto
 ![image](https://github.com/user-attachments/assets/54060afa-6908-4c98-8b49-947d34fec09f)
